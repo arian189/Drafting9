@@ -12,3 +12,5 @@ CNC | *Computer Numerical Control*
 :joy:
 
 :smiley:
+
+:trollface:
