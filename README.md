@@ -3,9 +3,9 @@ Class work
 
 **Acronym** | **Long Form**
 ------- | ---------
-ANSI | [*American National Standards Institude*](https://www.ansi.org/)
-CAD | *Computer Aided Design*
-CNC | *Computer Numerical Control*
+ANSI | [_American National Standards Institude_](https://www.ansi.org/)
+CAD | _Computer Aided Design_
+CNC | _Computer Numerical Control_
 
 :grin:
 
